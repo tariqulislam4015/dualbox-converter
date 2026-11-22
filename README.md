@@ -10,14 +10,31 @@
 </p>
 
 <p align="center">
-  <a href="https://tariqulislam4015.github.io/dualbox-converter/"><b>🚀 Live App</b></a> ·
+  <a href="https://tariqulislam4015.github.io/dualbox-converter/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-1f9d55?style=for-the-badge" alt="Live Demo"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100%25-Offline-0f766e?style=flat-square" alt="Offline">
+  <img src="https://img.shields.io/badge/No_install-Browser_only-2563eb?style=flat-square" alt="Browser only">
+  <img src="https://img.shields.io/badge/License-MIT-f5b70a?style=flat-square" alt="MIT">
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/@tis.academy24">YouTube</a> ·
   <a href="https://www.facebook.com/tariqul.islam.422531/">Facebook</a> ·
   <a href="https://www.linkedin.com/in/tariqul3315/">LinkedIn</a> ·
   <a href="https://wa.me/8801755489719">WhatsApp</a>
 </p>
 
-![DualBox screenshot](docs/screenshot-home.png)
+## 🌐 Live Demo
+
+👉 **[tariqulislam4015.github.io/dualbox-converter](https://tariqulislam4015.github.io/dualbox-converter/)** — কিছু ইনস্টল করতে হবে না, browser-এ খুলেই ব্যবহার করুন।
+
+<a href="https://tariqulislam4015.github.io/dualbox-converter/"><img src="docs/screenshot-home.png" alt="DualBox Live Demo"></a>
+
+| প্রিভিউ ও উত্তর যাচাই | মোবাইল |
+|---|---|
+| <img src="docs/screenshot-preview.png" alt="Preview" width="560"> | <img src="docs/screenshot-mobile.png" alt="Mobile" width="220"> |
 
 ## ✨ যা যা করে
 
